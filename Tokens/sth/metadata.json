@@ -1,0 +1,8 @@
+{
+    "name": "SomeTokenHere",
+    "symbol": "STH",
+    "description": "This is some token",
+    "image": "https://raw.githubusercontent.com/s0meuserhere/tokens/refs/heads/main/Tokens/sth/image.png",
+    "attributes": [
+    ]
+}
